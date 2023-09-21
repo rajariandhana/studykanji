@@ -1,0 +1,17 @@
+.section2
+{
+    margin-top: 150px;
+    padding: 0 40px;
+}
+.desc
+{
+    background-color: #B9A3E3;
+    max-width: 400px;
+    border-radius: 20px;
+    padding: 20px 20px;
+}
+
+.desc p
+{
+    color: #000000;
+}
